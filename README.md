@@ -1,6 +1,6 @@
-   Sprint0
+ #  Sprint0
 
-Getting Started :
+## Getting Started :
 
 This Repo contains:
 *README.md file
@@ -8,7 +8,7 @@ This Repo contains:
 *mileStoneI
 
 
-Authors :
+## Authors :
 
 Abdelrahman Elhamahmi 37-15881
 
@@ -22,7 +22,7 @@ Omar Saleh		 	  37-15763
 
 Yara Dorgham		  37-2464
 
-About :
+## About :
 
 Omar Saleh :
 Full name : Omar Ashraf Mahmoud Saleh
