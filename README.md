@@ -2,7 +2,7 @@
 
 ## Getting Started :
 
-This Repo contains: **README.md file Project (Testing Github) mileStoneI
+This Repo contains: **README.md file Project (Testing Github) mileStoneI**
 
 ## Authors :
 
